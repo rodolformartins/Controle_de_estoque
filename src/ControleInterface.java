@@ -1,6 +1,6 @@
 public interface ControleInterface {
     //Métodos especiais
-    void incluirProduto();
+    Produtos incluirProduto();
 
     public String alterarProduto();
     public String consultarProduto();
