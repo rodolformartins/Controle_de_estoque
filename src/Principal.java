@@ -64,7 +64,7 @@ public class Principal {
                     opic = scan.nextInt();
 
                 case 0:
-                    System.out.println("O programa foi finalizado!");
+                    System.out.println("O programa foi finalizado!!");
                     return;
 
             }
